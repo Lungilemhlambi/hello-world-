@@ -1,2 +1,1 @@
-# hello-world-
-This repository is for practising the Github Flow. 
+# hello-world- My name is Lungile Mhlambi.
